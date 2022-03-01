@@ -1,8 +1,8 @@
-- 👋 Hi, I’m MonishaMohan
+- 👋 Hi, I’m Monisha Mohan
 - 👀 I’m interested in : Java 8 Javascript REST Services, Spring, web development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... mail me at monishaprofession@gmail.com
 
 <!---
 MonishaMohan30/MonishaMohan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
